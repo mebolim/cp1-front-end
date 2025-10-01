@@ -161,7 +161,7 @@ footer {
 }
         
 label {
-    display: block;
+    display: block; 
     margin-bottom: 5px;
     font-weight: bold;
     color: #555;
@@ -232,7 +232,7 @@ caption {
 }
 
 .wine-type {
-    border-radius: 10px;
+    border-radius: 10px; /*tipo do vinho*/
     padding: 15px;
     margin: 20px auto;
     max-width: 600px;
