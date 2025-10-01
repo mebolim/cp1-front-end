@@ -279,12 +279,14 @@ hr {
 .welcome-section {
     text-align: center;
     padding: 80px 20px;
+    width: 50%;
 }
 
 .welcome-section h1 {
     font-size: 2.8em;
     margin-bottom: 20px;
     color: #8b0000;
+    display: flex;
 }
 
 .welcome-section p {
@@ -303,13 +305,11 @@ hr {
 
 .home {
     display: flex; /* Define um layout flexível */
-    justify-content: space-around; /* Espaça os produtos de maneira igual entre eles */
-    padding: 30px; /* Espaçamento interno ao redor dos produtos */
-    flex-wrap: wrap; /* Permite que os produtos se ajustem quando a tela for pequena */
 }
 
-.home img{
-    width: 100%; /* A imagem ocupa toda a largura disponível */
+.adega{
+    width: 25%; /* A imagem ocupa toda a largura disponível */
     height: auto; /* Mantém a proporção original da imagem */
     border-radius: 8px; /* Bordas arredondadas nas imagens */
+    padding-bottom: 10px; 
 }
