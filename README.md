@@ -23,15 +23,12 @@
 
  5. Por fim fizemos um guia com as caracteristicas de cada um dos vinhos disponibilizados na pagina de produtos, colocamos uma tabela de opções de harmonização de cada um dos vinhos e por fim um link para um video no youtube.
 
-## Integrantes
+## Integrantes/DEV
  
- - Victor Nunes Braz
+ - Victor Nunes Braz (Vi-Nunes)
  - Roger de Carvalho Paiva (needy-prog)
  - Pedro Henrique Olimpio (Cerejaa)
  - Guilherme Segolin de Oliveira Mendes (mebolim)
 
 ## Link do site
-  - http://127.0.0.1:5500/index.html
-
-## Observação
-  - Tivemos um baita trabalho para fazer os commits no github kk,tirando o criador do repositorio (Guilherme), estavamos com dificuldade para descobrir como os outros integrantes do grupo iriam commitar, não trabalhamos tanto o git nas aulas do Cidade, por isso pedimos a ajuda de um conhecido que conseguiu nos auxiliar, por isso tera commits de um usuario chamado AugustoSLS, o unico do grupo que não commitou foi o Victor por um erro na hora de clonar o código, erro do qual não conseguimos corrigir, mas lhe garanto que ele participou e muito no desenvolvimento do site. 
+  - https://cp1-front-end-xh2x-git-main-guilherme-segolins-projects.vercel.app?_vercel_share=aybDNbWwQLu8KeKYzDTZwXlcoAu1bMyj
